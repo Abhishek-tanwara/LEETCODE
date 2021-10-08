@@ -15,6 +15,9 @@
  i) that both trees respective nodes should have same values
  ii)that their left subtrees should be same
  iii) that their right subtree should be same
+ */
+ 
+ 
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
